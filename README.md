@@ -4,9 +4,7 @@
 -  [Covid Resources App](https://github.com/prashantsinghpaliwal/covid-twitter/tree/master)
 -  [WhatsApp Redesign App](https://github.com/prashantsinghpaliwal/WhatsAppRedesign/tree/master)
 
-- All of my projects are available at [https://github.com/prashantsinghpaliwal](https://github.com/prashantsinghpaliwal)
-
-- I regularly write articles on [https://medium.com/@prashantappdeveloper](https://medium.com/@prashantappdeveloper)
+- All of my projects are available [here](https://github.com/prashantsinghpaliwal)
 
 - Ask me about **Android**
 
