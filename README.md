@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Prashant Singh</h1>
 <h3 align="center">An Android enthusiast with a passion to create apps users love to use</h3>
 
+-  [News App with Clean Architecture](https://github.com/prashantsinghpaliwal/cleannews/tree/master)
 -  [Covid Resources App](https://github.com/prashantsinghpaliwal/covid-twitter/tree/master)
 -  [WhatsApp Redesign App](https://github.com/prashantsinghpaliwal/WhatsAppRedesign/tree/master)
 
