@@ -7,14 +7,14 @@
 
 - All of my projects are available [here](https://github.com/prashantsinghpaliwal)
 
-- Ask me about **Android**
+- Ask me about **Android**   
 
 - How to reach me **prashantappdeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prashantappdeveloper" target="blank"><img align="center" src="https://camo.githubusercontent.com/4c080422a239ae85d1f73a5c92d4753674e1044e8dc058e034535abbfd34fa3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e" alt="prashantappdeveloper"/></a>
-<a href="https://medium.com/@prashantappdeveloper" target="blank"><img align="center" src="https://camo.githubusercontent.com/6e6fad14aa3b151480832822194a4f5668038a1e59c7f1cdad36e961458a2da7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d656469756d2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4d656469756d" alt="@prashantappdeveloper" /></a>
+<a href="https://linkedin.com/in/prashantappdeveloper" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="prashantappdeveloper"/></a>
+<a href="https://medium.com/@prashantappdeveloper" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@prashantappdeveloper" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
